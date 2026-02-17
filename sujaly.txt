@@ -1,0 +1,11 @@
+<html>
+<head>
+<title> Home </title>
+</head>
+<body>
+<h1> Home Page </h1>
+<a href="nik2.html"> Go to about page </a>
+<a href="https:// www.google.com"> go to google
+</a>
+</body>
+</html>
