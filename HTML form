@@ -1,0 +1,21 @@
+<html>
+<head>
+<title> Form </title>
+</head>
+<body>
+<form>
+<center><h1> Form </h1></center>
+Username: <input type = "text"><br>
+Password: <input type = "password"><br>
+Gender: <input type = "radio" value ="Male" name = "Gender" checked> male
+        <input type = "radio" value ="Female" name = "Gender"> female <br>
+Subject: <input type = "checkbox" value = "DS">DS
+         <input type = "checkbox" value = "AI">AI
+         <input type = "checkbox" value = "Java">Java
+         <input type = "checkbox" value = "ML">ML <br>
+About<br>
+This is a web development practical lecture.<br>
+<input type = "submit" value = "submit">
+</form>
+</body>
+</html>
